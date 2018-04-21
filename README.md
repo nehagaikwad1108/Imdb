@@ -5,8 +5,7 @@ The project is largely divided into 2 parts: Predicting IMDB scores and then pre
 a viewer based on sentiment analysis. 
 
 Part 1A:
-The first part of the project is based on Machine Learning based algorithms-Multilinear Regression and Random Forest Trees. After perfoming 
-EDA and Basic Correlation between variables, we vectorized all corelated variables to IMDB score to predict the score of other movies. 
+The first part of the project is based on Machine Learning based algorithms-Multilinear Regression and Random Forest Trees. After perfoming EDA and Basic Correlation between variables, we vectorized all corelated variables to IMDB score to predict the score of other movies. 
 This code is present in the Jupyter Notebook-Project Part 1. Use the datasets given in the code and provided in GitHub. Results and 
 accuracy are present in the Notebook. To Run, use Anaconda prompt terminal and download Jupyter Notebook.
 
@@ -25,4 +24,4 @@ The Jupyter notebooks is-Project Neural Network Predictions.
 Part 2: Sentiment Analysis: 
 We performed sentiment analysis using RNN and CNN based neural network with model as sequential and features embedded and vectorised. 
 The accuracy of sentiment analysis is particularly high. The notebooks can be run on simple Anconda Prompt or AWS. The notebooks are
-Sentiment Analysis, LSTM-Bi, GRU, GRU-Bi. 
+Sentiment Analysis, LSTM-Bi, GRU, GRU-Bi.
