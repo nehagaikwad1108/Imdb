@@ -1,8 +1,5 @@
 # Imdb
-## This is a project which determines how good a movie is. To do so we zeroed in on two factors, predicting the IMDB score of the movie 
-## and Sentimental analysis of the movie. We have used the publicly avaiable IMDB dataset and then the IMDB dataset with sentiment analysis. 
-## The project is largely divided into 2 parts: Predicting IMDB scores and then predicting whether a movie will be positive or negative for 
-## a viewer based on sentiment analysis. 
+## This is a project which determines how good a movie is. To do so we zeroed in on two factors, predicting the IMDB score of the movie and Sentimental analysis of the movie. We have used the publicly avaiable IMDB dataset and then the IMDB dataset with sentiment analysis. The project is largely divided into 2 parts: Predicting IMDB scores and then predicting whether a movie will be positive or negative for a viewer based on sentiment analysis. 
 
 # Part 1A:
 The first part of the project is based on Machine Learning based algorithms- Multilinear Regression and Random Forest Trees. After perfoming EDA and Basic Correlation between variables, we vectorized all corelated variables to IMDB score to predict the score of other movies. 
